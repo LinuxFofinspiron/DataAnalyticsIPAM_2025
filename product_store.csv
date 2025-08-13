@@ -1,0 +1,1001 @@
+ProductID,ProductName,Category,Price,Quantity,StoreLocation,DateAdded
+1,Potting Soil,Garden,15.99,32,California,2024-10-19
+2,Cordless Electric Screwdriver,Tools,39.99,22,District of Columbia,2024-11-04
+3,Almond Butter Granola Bars,Food - Snacks,4.99,16,Pennsylvania,2024-09-19
+4,Herbal Tea Variety Pack,Food - Beverages,4.99,40,California,2024-10-27
+5,Puffed Rice Cake,Food - Snacks,2.49,28,Minnesota,2024-09-10
+6,LED Makeup Mirror,Beauty,39.99,3,California,2025-07-13
+7,Chopping Board,Kitchen,29.99,68,Minnesota,2025-01-22
+8,Buffalo Chicken Wraps,Food - Prepared Meals,5.99,24,California,2025-04-09
+9,Bamboo Cotton Tank Top,Clothing - Tops,22.99,52,Michigan,2024-11-28
+10,Cinnamon Sugar Tortilla Chips,Food - Snacks,3.29,13,Wisconsin,2025-04-14
+11,Floral Wrap Top,Clothing - Tops,49.99,2,New York,2025-05-10
+12,Garlic Parmesan Wings,Food - Frozen Foods,8.99,90,Illinois,2025-01-22
+13,Chocolate Covered Pretzels,Food - Snacks,3.29,31,California,2025-02-13
+14,Magnetic Curtain Tiebacks,Home,12.99,69,Ohio,2025-03-22
+15,Tailored Dress Pants,Clothing - Bottoms,79.99,47,Texas,2025-04-11
+16,Cold Brew Coffee Concentrate,Food - Beverages,7.99,21,Maryland,2025-04-19
+17,Spinach Feta Wraps,Food - Deli,4.29,1,Massachusetts,2024-09-18
+18,Car Vacuum Cleaner,Automotive,39.99,75,Missouri,2025-06-09
+19,Portable Air Compressor,Automotive,44.99,70,California,2025-05-04
+20,Woven Storage Baskets,Home,24.99,76,Ohio,2025-04-25
+21,Weighted Jump Rope with Counter,Fitness,14.99,44,Minnesota,2025-07-11
+22,Coconut Curry Chicken,Food - Frozen Foods,9.99,8,Mississippi,2024-12-29
+23,Photo Album,Home,24.99,25,Virginia,2025-02-23
+24,Sliced Turkey Breast,Food - Deli Meats,5.49,78,New York,2024-12-27
+25,Fitness Resistance Bands Kit,Fitness,29.99,16,Kansas,2025-03-30
+26,Coconut Milk Ice Cream,Food - Frozen Desserts,6.99,86,North Dakota,2025-04-30
+27,Garlic Butter Sauce,Food - Condiments,3.59,23,New York,2025-01-17
+28,Vanilla Ice Cream,Food - Frozen Foods,4.99,52,Florida,2024-09-14
+29,Over-Ear Headphones,Audio,59.99,70,California,2025-02-04
+30,Hibiscus Tea Bags,Food - Beverages,3.79,60,Michigan,2024-10-27
+31,Desk Organizer Set,Office,29.99,10,Massachusetts,2025-06-20
+32,LED Christmas Tree Lights,Home,34.99,35,California,2025-07-07
+33,Basketball,Sports,29.99,21,Texas,2025-02-02
+34,Adjustable Dog Harness,Pets,24.99,45,Oklahoma,2024-12-17
+35,Elderberry Syrup,Food - Supplements,11.99,83,Texas,2025-06-07
+36,Honey Mustard Dip,Food - Condiments,3.29,75,Michigan,2025-02-07
+37,Almond Joy Protein Bars,Food - Snacks,1.99,49,Pennsylvania,2025-02-03
+38,Frozen Chicken Nuggets,Food - Frozen Foods,4.49,44,Oklahoma,2024-10-12
+39,Sliced Bread,Food - Bakery,2.99,55,California,2024-12-17
+40,Almond Butter,Food - Condiments,6.49,36,Florida,2025-02-12
+41,Marinara Sauce,Food - Condiments,3.49,1,New Jersey,2025-03-01
+42,Digital Kitchen Timer,Kitchen,14.99,40,Louisiana,2025-01-06
+43,Gluten-Free Brownies,Food - Baking,4.99,79,Iowa,2024-09-01
+44,Set of Measuring Spoons,Kitchen,12.99,74,West Virginia,2025-08-09
+45,Digital Wireless Camera,Home Security,199.99,87,Tennessee,2025-01-31
+46,Memory Foam Pillow,Home,39.99,5,Texas,2024-09-05
+47,Honey Garlic Shrimp,Food - Seafood,8.49,32,Alabama,2025-06-10
+48,Wireless Gaming Mouse,Gaming,39.99,33,Florida,2025-03-05
+49,Wireless Printer,Office,99.99,63,Ohio,2025-03-22
+50,Herb-Infused Olive Oil,Food - Oils,8.99,16,New York,2025-06-10
+51,Smart Water Bottle,Fitness,39.99,21,New Mexico,2025-07-15
+52,Portable Solar Phone Charger,Electronics,29.99,23,California,2025-03-15
+53,Jigsaw Puzzle,Toys,14.99,68,New Jersey,2025-01-04
+54,Magnetic Spice Containers,Kitchen,24.99,93,Louisiana,2024-12-27
+55,Puffer Winter Coat,Clothing - Outerwear,99.99,63,Florida,2025-01-03
+56,Portable Bluetooth Keyboard,Electronics,39.99,62,Minnesota,2024-10-23
+57,Pasta Primavera Kit,Food - Meal Kits,7.49,49,West Virginia,2024-12-22
+58,Lemon Garlic Marinade,Food - Condiments,4.29,75,Florida,2025-02-05
+59,Electric Toothbrush Holder,Health,14.99,78,California,2024-09-01
+60,Gluten-Free Brownies,Food - Baking,4.99,24,Tennessee,2025-07-28
+61,Chocolate Mint Protein Shake,Food - Beverages,3.99,75,Alaska,2024-12-13
+62,Fresh Lemons,Food - Fresh Produce,0.75,32,Montana,2024-12-25
+63,Decorative Throw Pillows,Home,29.99,84,Wisconsin,2025-04-11
+64,Pet Hair Vacuum Attachment,Pets,14.99,59,California,2025-06-20
+65,Pepperoni Pizza Rolls,Food - Snacks,6.99,97,District of Columbia,2025-07-11
+66,Spaghetti Squash,Food - Produce,3.99,30,Washington,2025-05-12
+67,Peach Mango Smoothie,Food - Beverages,3.49,47,Texas,2024-09-19
+68,Elderberry Syrup Kit,Health,22.99,74,Arizona,2025-06-26
+69,Portable Water Filter,Outdoor,29.99,61,District of Columbia,2024-12-29
+70,Frozen Mixed Berries,Food - Frozen Foods,5.99,61,Iowa,2024-08-30
+71,Mini Projector for Smartphones,Electronics,99.99,37,North Carolina,2024-12-06
+72,Cordless Water Flosser,Health,49.99,77,Missouri,2024-10-09
+73,Honey Almond Granola Bars,Food - Snacks,3.99,97,Tennessee,2024-08-24
+74,Multi-Purpose Marine Rope,Outdoor,19.99,99,Missouri,2025-07-08
+75,Creamy Coleslaw Mix,Food - Produce,2.39,14,New Mexico,2025-03-16
+76,Classic Chicken Noodle Soup,Food - Canned Goods,3.49,79,California,2024-09-29
+77,Herbed Mushroom Risotto,Food - Prepared Foods,5.49,74,Virginia,2024-12-23
+78,Baked Falafel Balls,Food - Frozen Vegetables,5.99,73,Pennsylvania,2025-05-09
+79,Wooden Puzzle Game,Toys,14.99,12,Tennessee,2025-05-09
+80,Honey mustard chicken tenders,Food - Meat,7.99,84,Alabama,2025-05-12
+81,Chocolate Fudge Ice Cream,Food - Frozen Desserts,5.99,75,Florida,2025-02-17
+82,Coconut Flakes,Food - Baking,3.29,63,Maryland,2025-01-14
+83,Noise-Canceling Earbuds,Audio,79.99,71,Iowa,2025-05-27
+84,Fleece Throw Blanket,Home,29.99,23,Louisiana,2024-08-30
+85,Classic Chicken Noodle Soup,Food - Canned Goods,3.49,13,Florida,2025-07-05
+86,Poppy Seed Dressing,Food - Condiments,3.49,79,Oregon,2025-06-27
+87,Smart LED Desk Lamp,Office,39.99,95,Minnesota,2024-09-13
+88,Children's Musical Instrument Set,Toys,39.99,10,Oklahoma,2024-12-07
+89,Baked Falafel Balls,Food - Frozen Vegetables,5.99,49,Pennsylvania,2024-09-21
+90,Puffer Winter Coat,Clothing - Outerwear,99.99,66,Washington,2025-03-01
+91,Pet Carrier Backpack,Pets,39.99,15,Virginia,2025-06-03
+92,Adjustable Laptop Stand,Office,29.99,69,Florida,2025-06-13
+93,Multi-Cooker,Kitchen,89.99,16,New Jersey,2025-04-10
+94,Electric Butter Churn,Kitchen,49.99,98,Florida,2025-07-19
+95,Baked Mac and Cheese,Food - Frozen Foods,5.99,97,New York,2025-01-03
+96,Organic Fruit Salad,Food - Produce,4.49,100,Indiana,2025-06-30
+97,Cocoa Powder,Food - Baking,3.99,41,Florida,2025-08-11
+98,Pasta Maker Machine,Kitchen,59.99,46,North Carolina,2025-01-19
+99,Lightweight Backpacking Tent,Outdoor,129.99,31,Virginia,2025-04-12
+100,Handheld Shower Head,Bathroom,34.99,68,North Carolina,2025-08-10
+101,Frozen Broccoli,Food - Frozen,2.49,97,Texas,2025-02-23
+102,Eco-Friendly Notepad,Office,8.99,16,Maryland,2024-12-02
+103,Wireless Charging Station,Electronics,39.99,42,Connecticut,2025-04-07
+104,Beef Taco Skillet,Food - Meal Kits,8.49,41,Texas,2024-11-06
+105,Sweet Potato Mash,Food - Frozen Foods,3.99,88,Louisiana,2025-07-09
+106,Pasta Maker Machine,Kitchen,59.99,30,Louisiana,2025-03-31
+107,Wall Planner,Office,19.99,76,Alabama,2025-02-05
+108,Almond Joy Munch Bars,Food - Snacks,1.39,68,Arizona,2024-09-13
+109,Peach Slices (canned),Food - Canned Goods,2.49,60,Colorado,2025-03-21
+110,Bamboo Cutting Board Set,Kitchen,34.99,12,Georgia,2025-07-02
+111,Fitness Balance Ball,Fitness,24.99,43,Illinois,2025-07-31
+112,Dual Function Electric Skillet,Kitchen,59.99,44,Ohio,2025-07-21
+113,Electric Meat Grinder,Kitchen,89.99,64,Texas,2025-07-15
+114,Spicy Salsa Verde,Food - Condiments,3.49,93,Texas,2024-11-02
+115,Organic Green Lentils,Food - Grocery,3.99,79,Illinois,2025-06-30
+116,Stylish Combat Boots,Clothing - Shoes,99.99,34,Louisiana,2024-10-21
+117,Over-The-Door Shoe Organizer,Home,25.99,66,Idaho,2025-05-16
+118,Car Phone Mount,Automotive,15.99,20,Wisconsin,2024-10-24
+119,Chili Garlic Sauce,Food - Condiments,2.49,31,Nebraska,2025-07-04
+120,Electric Butter Churn,Kitchen,49.99,20,Georgia,2025-04-18
+121,Wireless Smart Plug,Smart Home,19.99,81,Alabama,2024-10-11
+122,Solar Garden Lights,Outdoor,39.99,40,Ohio,2025-01-07
+123,Balsamic Vinegar,Food - Condiments,4.99,14,Hawaii,2025-02-16
+124,Portable Pet Pooper Scooper,Pets,12.99,9,District of Columbia,2024-09-24
+125,Ice Cream Scoop,Kitchen,12.99,79,Ohio,2025-03-29
+126,Spicy Garlic Edamame,Food - Snacks,3.99,64,Washington,2024-10-01
+127,Watering Can with Nozzle,Garden,19.99,95,California,2025-07-26
+128,Brussels Sprouts,Food - Produce,3.49,78,California,2024-09-09
+129,Balsamic Glazed Brussels Sprouts,Food - Vegetables,4.99,48,Idaho,2025-04-20
+130,Poppy Seed Dressing,Food - Condiments,3.49,83,Connecticut,2025-02-21
+131,Oven-Baked Parmesan Zucchini,Food - Frozen Vegetables,4.99,62,Texas,2025-03-19
+132,Infrared Thermometer Gun,Health,29.99,93,Louisiana,2024-12-01
+133,Chicken Fajita Kit,Food - Prepared Foods,8.99,7,Louisiana,2024-12-02
+134,Italian Herbal Seasoning,Food - Spices,1.99,12,Alabama,2025-07-29
+135,Aeropress Coffee Maker,Kitchen,29.99,71,South Carolina,2024-12-25
+136,Jasmine Rice,Food - Grains,2.39,72,Oklahoma,2024-12-16
+137,Comfortable Bed Pillow,Home,24.99,89,New York,2025-07-27
+138,Flavored Rice Cakes,Food - Snacks,2.49,31,Nevada,2024-12-02
+139,Smartphone Gimbal Stabilizer,Photography,89.99,20,Arizona,2025-07-17
+140,Chili Beans (canned),Food - Canned Goods,1.69,13,Washington,2024-11-25
+141,Suction Cup Hooks,Home,9.99,92,Tennessee,2024-08-22
+142,Smartphone Tripod,Photography,29.99,91,Florida,2024-09-19
+143,Spiralizer,Kitchen,22.99,91,Illinois,2024-12-19
+144,Puffer Winter Coat,Clothing - Outerwear,99.99,44,Kansas,2025-02-03
+145,Artisan Bread Loaf,Food - Bakery,3.99,51,California,2024-09-14
+146,Foam Building Blocks for Kids,Toys,22.99,49,Texas,2025-06-11
+147,Vanilla Bean Greek Yogurt,Food - Dairy,1.99,64,Arizona,2024-10-03
+148,Caramel Sauce,Food - Condiments,3.49,100,New York,2025-02-08
+149,Solar Power Bank,Electronics,39.99,33,Tennessee,2025-03-24
+150,Pet Grooming Brush,Pets,19.99,16,Arizona,2025-02-05
+151,Buffalo Cauliflower Bites,Food - Freezer,6.29,80,Alabama,2025-01-06
+152,Organic Quinoa Chips,Food - Snacks,3.99,20,Kansas,2025-01-15
+153,Electronic Drum Kit,Music,359.99,71,District of Columbia,2025-03-25
+154,Garden Tool Set,Garden,34.99,62,Connecticut,2025-01-14
+155,Pet First Aid Kit,Pets,29.99,25,Texas,2025-02-09
+156,Brown Sugar,Food - Baking,1.79,10,District of Columbia,2024-10-17
+157,Electric Stool Heater,Home,29.99,43,California,2025-05-19
+158,Handmade Soap Making Kit,Crafts,34.99,95,California,2025-05-30
+159,Buttermilk Pancakes,Food - Breakfast,3.99,48,Arkansas,2024-11-11
+160,Organic Green Lentils,Food - Grocery,3.99,36,Massachusetts,2025-07-07
+161,Ultra-Thin Laptop Sleeve,Accessories,19.99,25,Texas,2025-02-15
+162,Cotton Tote Bag Set,Accessories,29.99,53,Utah,2025-06-17
+163,Dill Pickle Chips,Food - Condiments,2.29,3,Texas,2025-02-15
+164,Ranch Dressing,Food - Condiments,2.59,62,New York,2025-05-07
+165,Eco-Friendly Yoga Blocks,Fitness,15.99,80,Minnesota,2024-08-17
+166,Indoor Grill,Kitchen,59.99,49,Texas,2025-02-02
+167,Coffee Capsule Dispenser,Kitchen,24.99,58,Texas,2024-11-06
+168,Chia Seed Pudding Mix,Food - Breakfast,4.19,10,California,2025-03-12
+169,Face Mask Set,Health,19.99,63,California,2024-11-24
+170,Travel Mug with Leak-Proof Lid,Kitchen,24.99,49,California,2024-09-25
+171,Cooking Utensil Set,Kitchen,24.99,80,Kentucky,2025-07-26
+172,Belted Trench Coat,Clothing - Outerwear,89.99,87,Idaho,2025-06-30
+173,Salsa Verde,Food - Condiments,3.49,48,California,2024-10-26
+174,Children's Garden Tool Set,Garden,22.99,52,Florida,2024-12-02
+175,Frozen Edamame,Food - Frozen Foods,3.29,31,Florida,2024-12-25
+176,Pet Safety Harness,Pets,24.99,32,Alabama,2025-05-25
+177,Adjustable Pedicure Footrest,Beauty,39.99,41,Montana,2024-09-05
+178,Cooking Utensil Set,Kitchen,24.99,55,Mississippi,2025-01-27
+179,Couscous,Food - Grains,2.49,17,District of Columbia,2024-12-06
+180,Compact Pop-Up Tent,Outdoor,69.99,21,Texas,2024-08-31
+181,Multifunctional Pocket Tool,Tools,19.99,92,District of Columbia,2025-05-07
+182,Reusable Food Storage Bags,Kitchen,19.99,31,Texas,2025-04-27
+183,Terry Cloth Robe,Clothing - Loungewear,59.99,78,Arizona,2025-07-09
+184,Smartphone Tripod with Bluetooth Remote,Photography,29.99,22,Georgia,2024-08-22
+185,Bock Beer Mustard,Food - Condiments,2.29,62,Utah,2025-02-01
+186,Silicone Baking Mat,Kitchen,15.99,94,Pennsylvania,2024-12-15
+187,Cinnamon Ice Cream,Food - Frozen Desserts,4.99,32,Alabama,2025-02-19
+188,Coffee Grinder,Kitchen,39.99,90,New Jersey,2025-04-13
+189,Organic Italian Seasoning,Food - Spices,2.99,23,California,2024-12-21
+190,Collapsible Folding Chair,Outdoor,29.99,35,Florida,2025-05-15
+191,Bodyweight Resistance Bands,Fitness,22.99,34,Florida,2025-02-08
+192,Solar Charger,Electronics,39.99,65,Kentucky,2024-09-02
+193,Lentil Soup,Food - Canned Goods,2.49,95,Kentucky,2025-04-27
+194,Hot Salsa,Food - Dips,2.29,26,Texas,2024-08-17
+195,Garden Hose Reel,Garden,49.99,75,Nevada,2024-12-02
+196,Art Supplies Organizer,Art Supplies,18.99,19,Texas,2024-12-13
+197,Portable Pet Stroller,Pets,89.99,66,Florida,2025-05-01
+198,Reversible Swimming Pool Lounger,Outdoor,34.99,41,Pennsylvania,2024-09-05
+199,Multi-Layer Food Steamer,Kitchen,39.99,23,Illinois,2025-07-10
+200,Kettle Corn Popcorn,Food - Snacks,2.99,87,Virginia,2024-11-14
+201,Telescope,Outdoor,159.99,36,Washington,2024-12-15
+202,Pasta Sauce Mix,Food - Sauces,1.29,53,Georgia,2025-01-10
+203,Electric Food Steamer,Kitchen,59.99,34,Texas,2025-05-21
+204,Bicycle Lock,Bicycles,29.99,8,District of Columbia,2025-01-25
+205,Caramelized Onion Dip,Food - Dairy,3.99,18,Pennsylvania,2025-06-03
+206,Teriyaki Tofu Stir-Fry,Food - Prepared Meals,7.49,11,Virginia,2024-11-16
+207,Vegetable Spring Rolls,Food - Frozen Foods,6.49,67,Georgia,2025-06-14
+208,Himalayan Salt Grinder,Food - Spices,4.99,71,Texas,2024-11-11
+209,Fashionable Fanny Pack,Clothing - Accessories,24.99,19,New Hampshire,2025-01-31
+210,Mini Projector for Smartphones,Electronics,99.99,71,District of Columbia,2025-06-21
+211,Wine Decanter,Home,34.99,68,Illinois,2024-09-06
+212,Interactive Robot Toy,Toys,34.99,81,Arizona,2025-08-11
+213,Coconut Milk Yogurt,Food - Dairy Alternatives,2.99,43,Texas,2025-04-10
+214,Organic Almond Flour,Food - Baking,6.99,39,Missouri,2025-07-07
+215,Air Fryer,Kitchen,79.99,59,Alabama,2024-12-30
+216,Luminous Night Light,Home,15.99,93,California,2024-10-27
+217,Coconut Curry Chicken,Food - Frozen Foods,9.99,78,New York,2025-06-02
+218,Brown Sugar,Food - Baking,1.79,58,Idaho,2025-02-24
+219,Beef Taco Skillet,Food - Meal Kits,8.49,67,Texas,2024-12-15
+220,Frozen Fruit Medley,Food - Frozen Foods,5.99,97,Florida,2025-04-11
+221,Organic Quinoa Chips,Food - Snacks,3.99,65,New Hampshire,2025-02-09
+222,Marinated Artichokes,Food - Vegetables,3.79,80,Missouri,2024-10-23
+223,Kale and Quinoa Salad,Food - Salads,6.49,87,Utah,2025-05-07
+224,Jalapeño Cornbread,Food - Bakery,3.29,62,Virginia,2025-05-09
+225,Vegetable Pizza Rolls,Food - Frozen Foods,6.49,26,Florida,2025-01-04
+226,Indian Curry Sauce,Food - Condiments,3.69,10,Florida,2025-08-05
+227,Teriyaki Chicken Bowl,Food - Prepared Meals,6.49,45,California,2024-12-21
+228,Slim Fit Chinos,Clothing - Pants,54.99,34,Georgia,2025-04-10
+229,Cranberry Lime Sparkling Water,Food - Beverages,1.5,96,North Dakota,2025-05-13
+230,Tattoo Kit,Art Supplies,99.99,78,California,2025-05-07
+231,Mini Air Hockey Table,Toys,39.99,19,Missouri,2025-03-16
+232,Non-Stick Grill Pan,Kitchen,39.99,93,Texas,2024-09-17
+233,Cacao Powder,Food - Baking,4.49,75,California,2025-03-04
+234,Bock Beer Mustard,Food - Condiments,2.29,2,Georgia,2025-02-21
+235,Italian Breadsticks,Food - Bakery,2.49,72,Ohio,2025-04-30
+236,Smart Light Bulbs,Smart Home,34.99,65,Michigan,2025-04-23
+237,Wireless Range Extender,Electronics,49.99,13,Missouri,2025-04-30
+238,Wireless Game Controller,Gaming,39.99,75,Maryland,2024-10-03
+239,Indoor Grill,Kitchen,59.99,76,California,2025-01-30
+240,Sweet Potatoes,Food - Produce,0.89,50,New Jersey,2025-01-14
+241,Cotton Basic Tank,Clothing - Tops,14.99,45,California,2025-04-15
+242,Self-Massaging Pillow,Health,49.99,90,Florida,2024-08-19
+243,Sweet Chili Thai Sauce,Food - Condiments,3.49,26,Texas,2025-07-09
+244,Dog Frisbee Toy,Pets,10.99,78,California,2024-08-15
+245,Fleece Lined Leggings,Clothing,29.99,9,California,2025-03-08
+246,Honey Mustard Pretzel Bites,Food - Snacks,3.99,100,Georgia,2024-09-09
+247,Camera Lens Cleaning Kit,Photography,14.99,100,North Dakota,2025-08-03
+248,Organic Almond Flour,Food - Baking,6.99,11,Texas,2025-03-02
+249,Gardening Gloves,Garden,15.99,87,Pennsylvania,2024-10-19
+250,Wireless Induction Charger,Electronics,19.99,62,California,2024-10-12
+251,Induction Cooktop,Kitchen,89.99,20,Texas,2024-12-01
+252,Mayonnaise,Food - Condiments,3.29,93,Washington,2025-02-10
+253,Wild Rice & Quinoa Mix,Food - Grains,2.99,18,Connecticut,2025-03-05
+254,Sliced Provolone Cheese,Food - Dairy,3.99,44,Alabama,2025-02-17
+255,Set of Silicone Cooking Utensils,Kitchen,29.99,19,Virginia,2024-11-25
+256,Bluetooth Tracker,Accessories,19.99,10,Minnesota,2025-04-04
+257,Pet Food Storage Container,Pets,24.99,15,Iowa,2024-11-01
+258,Harvest Grain Salad,Food - Salads,5.49,31,Missouri,2025-06-01
+259,Digital Thermostat,Home,59.99,15,Alabama,2025-05-01
+260,Wild Rice Pilaf,Food - Grains,3.79,84,Illinois,2024-09-02
+261,Organic Baby Carrots,Food - Fresh Produce,2.99,69,California,2024-11-20
+262,Coffee Capsule Dispenser,Kitchen,24.99,55,Florida,2024-12-12
+263,Classic Watch,Accessories,99.99,21,California,2024-08-30
+264,Fall-Themed Table Runner,Home,19.99,9,Arizona,2025-02-07
+265,Savory Mushroom Risotto,Food - Gourmet Rice,6.49,81,Nebraska,2024-09-13
+266,Classic Leather Wallet,Clothing - Accessories,34.99,77,Virginia,2025-05-13
+267,Portable Bluetooth Speaker,Audio,49.99,43,District of Columbia,2024-11-09
+268,Blueberry Muffin Mix,Food - Baking,4.29,7,Missouri,2025-07-24
+269,Thyme,Food - Fresh Produce,2.49,31,California,2025-03-25
+270,Green Smoothie Mix,Food - Beverages,5.99,2,Indiana,2024-12-26
+271,Chia Seed Pudding Mix,Food - Breakfast,4.19,48,Indiana,2024-11-20
+272,Safety Goggles,Safety,14.99,49,Ohio,2024-09-14
+273,Vegan Mayonnaise,Food - Condiments,4.49,8,Texas,2025-06-17
+274,Lentil Soup,Food - Canned Goods,2.49,81,Pennsylvania,2024-08-25
+275,Crispy Kale Chips,Food - Snacks,2.99,15,Florida,2025-04-22
+276,Insulated Lunch Box,Kitchen,24.99,2,Texas,2025-04-15
+277,Travel Laundry Bag,Travel,9.99,30,California,2024-08-17
+278,Luxury Memory Foam Mattress Topper,Home,129.99,88,Colorado,2024-11-07
+279,Wireless Car Charger,Automotive,24.99,39,Alabama,2025-04-25
+280,Antique Style Clock,Home,39.99,2,Washington,2025-05-14
+281,Overnight Hiking Backpack,Outdoor,79.99,27,New York,2024-12-08
+282,Wall Planner,Office,19.99,96,Texas,2025-07-28
+283,Jump Rope with Counter,Fitness,12.99,14,Washington,2024-11-21
+284,Customizable Wall Calendar,Office,24.99,30,Pennsylvania,2025-01-30
+285,Carrot and Celery Sticks,Food - Produce,2.99,31,California,2024-10-08
+286,Sketchbook,Art Supplies,14.99,9,Michigan,2025-01-22
+287,Chipotle Seasoning Blend,Food - Spices,2.49,61,South Carolina,2025-01-30
+288,Garden Tool Belt,Garden,22.99,22,California,2024-09-20
+289,Sweet Potato and Chickpea Bowl,Food - Frozen Food,6.49,38,District of Columbia,2025-01-12
+290,Vegetable Chips,Food - Snacks,3.99,69,Rhode Island,2024-11-17
+291,Yoga Mat,Fitness,25,89,Georgia,2024-10-05
+292,Wireless Smart Plug,Smart Home,19.99,16,Iowa,2025-06-27
+293,Pineapple Coconut Rice Mix,Food - Grains,3.99,93,Indiana,2025-01-03
+294,Carrot Ginger Soup,Food - Soups,4.29,22,California,2025-04-21
+295,Shower Curtain Hooks,Home,12.99,3,California,2025-02-14
+296,Animal Paw Print Soap Dispenser,Home,16.99,40,Texas,2024-12-06
+297,Creamy Garlic Mashed Potatoes,Food - Sides,3.99,93,Ohio,2025-02-11
+298,Inflatable Paddle Board,Outdoor,349.99,88,Texas,2025-02-28
+299,Classic Slim Fit Shirt,Clothing - Shirts,49.99,29,Ohio,2025-01-19
+300,Underwater Camera,Photography,199.99,19,New York,2025-04-26
+301,Sesame Oil,Food - Oils & Vinegars,3.99,43,Florida,2024-09-08
+302,Greek Yogurt Parfait,Food - Dairy,4.49,73,Mississippi,2025-05-21
+303,Garden Vegetable Soup,Food - Canned Goods,3.29,10,California,2025-07-22
+304,Creamy Ranch Dressing,Food - Dressings,2.49,67,California,2025-08-09
+305,Lemon Garlic Marinade,Food - Condiments,4.29,51,Texas,2025-03-18
+306,Glass Food Containers,Kitchen,34.99,51,California,2024-10-17
+307,Coconut Granola,Food - Snacks,4.19,57,Colorado,2024-11-14
+308,Collapsible Storage Crates,Home,18.99,2,New York,2024-10-23
+309,Electric Pressure Cooker,Kitchen,89.99,100,Tennessee,2025-06-01
+310,Vegetable Pizza Rolls,Food - Frozen Foods,6.49,48,Texas,2025-01-21
+311,Chocolate Fudge Ice Cream,Food - Frozen Desserts,5.99,47,Colorado,2025-04-13
+312,Pesto Pasta Sauce,Food - Sauces,3.99,16,Indiana,2025-04-28
+313,Pest Control Traps,Home,22.99,37,California,2025-04-18
+314,Whole Chicken,Food - Meat,12.99,22,Massachusetts,2024-08-22
+315,Video Camera,Electronics,199,13,California,2025-03-14
+316,Spicy Italian Sausage,Food - Meat & Seafood,4.99,33,California,2025-05-17
+317,Vegetable Broth,Food - Canned Goods,2.29,19,South Carolina,2025-04-23
+318,Fitness Mat,Fitness,49.99,49,District of Columbia,2025-07-05
+319,Cinnamon Sugar Popcorn,Food - Snacks,2.89,12,Kansas,2024-08-31
+320,Ice Cube Tray with Lid,Kitchen,10.99,6,West Virginia,2024-11-10
+321,Sooji (Semolina),Food - Baking,1.99,88,Colorado,2024-12-26
+322,Honey Glazed Carrots,Food - Produce,3.49,72,New York,2025-05-07
+323,Butternut Squash Soup,Food - Soups,3.49,33,Florida,2024-10-06
+324,Camera Tripod,Photography,49.99,18,Arizona,2025-03-19
+325,Classic Leather Wallet,Clothing - Accessories,34.99,4,Utah,2025-02-04
+326,Hot Salsa,Food - Dips,2.29,88,Alabama,2025-05-02
+327,Pet Travel Carrier,Pets,39.99,41,West Virginia,2025-01-21
+328,Beef Taco Skillet,Food - Meal Kits,8.49,67,California,2025-02-01
+329,Digital Stopwatch Timer,Fitness,12.99,1,Ohio,2025-05-05
+330,Portable Solar Phone Charger,Electronics,29.99,5,Arizona,2025-04-12
+331,Set of Herb Garden Markers,Garden,8.99,34,Kansas,2024-11-23
+332,Pet Reflective Vest,Pets,18.99,97,California,2025-03-11
+333,Peanut Butter Protein Balls,Food - Snacks,5.29,78,Florida,2025-07-31
+334,Thermostatic Shower Valve Kit,Bathroom,39.99,58,Missouri,2025-05-02
+335,Compressed Towel Tablets,Travel,12.99,16,California,2025-06-03
+336,Phone Screen Protector,Accessories,12.99,36,California,2025-06-12
+337,Striped Long Sleeve Shirt,Clothing - Shirts,29.99,85,Alabama,2024-12-27
+338,Luxury Bath Robe,Clothing,49.99,34,Florida,2024-12-30
+339,3D Night Light,Home,19.99,16,Iowa,2025-03-01
+340,Multicolored LED Strip Lights,Home,29.99,10,Texas,2024-09-12
+341,Chicken Parmesan Dinner Kit,Food - Frozen Meals,14.99,63,New York,2025-04-25
+342,Cat Tree with Scratching Posts,Pets,79.99,73,Florida,2025-07-26
+343,Insulated Cooler,Outdoor,39.99,32,California,2025-02-02
+344,Interchangeable Watch Bands,Accessories,24.99,35,Georgia,2024-10-24
+345,Homestyle Chicken Noodle Soup,Food - Canned Goods,2.99,61,Colorado,2025-03-22
+346,Lemon Herb Quinoa,Food - Grains,3.49,10,California,2024-11-08
+347,Fitness Mat,Fitness,49.99,68,California,2025-03-24
+348,Stainless Steel BBQ Grill Set,Outdoor,49.99,32,New York,2025-03-16
+349,Gardening Gloves,Garden,15.99,97,California,2024-09-14
+350,Peas (frozen),Food - Frozen Foods,1.89,95,Virginia,2025-02-02
+351,Coconut Cream Pie Yogurt,Food - Dairy Alternatives,1.99,57,Wisconsin,2025-02-22
+352,Chia Seed Pudding Mix,Food - Breakfast,4.19,47,California,2024-12-04
+353,Couscous Mix,Food - Grains,2.49,16,Kentucky,2025-06-21
+354,Buffalo Cauliflower Bites,Food - Freezer,6.29,65,California,2025-04-01
+355,Robot Vacuum Cleaner,Home Appliances,299.99,27,California,2024-09-24
+356,Spaghetti and Meatball Dinner Kit,Food - Meal Kits,7.99,93,Pennsylvania,2024-12-20
+357,Carrot Sticks,Food - Produce,2.49,34,West Virginia,2025-06-14
+358,Honey Sriracha Chicken Bites,Food - Frozen Foods,7.99,92,Georgia,2025-01-02
+359,Cheddar Cheese Slices,Food - Dairy,3.49,93,Illinois,2025-01-22
+360,Tuscan Bean Soup,Food - Canned Goods,2.49,33,Florida,2024-12-01
+361,Coffee Subscription Service,Food,29.99,84,New York,2024-11-17
+362,Maple Glazed Carrots,Food - Prepared Foods,3.29,34,Arizona,2025-01-11
+363,Chili Lime Corn Chips,Food - Snacks,2.79,32,Oregon,2024-11-11
+364,Indian Curry Sauce,Food - Condiments,3.69,23,New York,2025-07-09
+365,Chocolate Chip Cliff Bars,Food - Snacks,2.49,37,Nevada,2025-02-16
+366,Ginger Turmeric Latte Mix,Food - Beverages,5.29,41,California,2025-06-15
+367,Garlic and Herb Rub,Food - Spices,2.29,91,South Dakota,2024-08-26
+368,Mixed Berry Smoothie Pack,Food - Frozen Food,5.99,81,Connecticut,2025-05-22
+369,Raisin Cinnamon Granola,Food - Cereals,3.79,99,North Carolina,2025-02-23
+370,Lightweight Workout Tank,Clothing - Activewear,29.99,47,District of Columbia,2025-01-30
+371,Warm Knit Beanie,Clothing - Accessories,19.99,14,Utah,2025-06-09
+372,Vanilla Pudding Mix,Food - Baking,1.29,72,Georgia,2024-09-03
+373,Coconut Macaroons,Food - Confectionery,4.99,75,Virginia,2025-02-18
+374,Bamboo Charcoal Air Purifier Bags,Home,12.99,82,Pennsylvania,2025-03-18
+375,Tennis Racket,Fitness,89.99,79,Michigan,2025-03-06
+376,Basketball,Sports,29.99,89,Nebraska,2024-08-26
+377,Customizable Photo Calendar,Books,19.99,31,Oklahoma,2024-10-18
+378,Maple Syrup,Food - Condiments,6.99,59,Illinois,2024-08-15
+379,Mushroom Soup (canned),Food - Canned Goods,2.49,54,North Carolina,2024-11-25
+380,Compact Folding Table,Outdoor,49.99,27,Florida,2024-12-04
+381,Pineapple Coconut Yogurt,Food - Dairy,4.49,64,Maryland,2025-01-12
+382,Baked Falafel Balls,Food - Frozen Vegetables,5.99,45,Indiana,2025-04-29
+383,Memory Foam Mattress Pad,Home,69.99,25,California,2025-01-01
+384,Wireless Gaming Mouse,Gaming,39.99,99,District of Columbia,2025-04-04
+385,Stylish Combat Boots,Clothing - Shoes,99.99,100,California,2025-07-25
+386,Leather Biker Jacket,Clothing - Outerwear,129.99,36,Alabama,2025-07-30
+387,Terry Cloth Robe,Clothing - Loungewear,59.99,51,Pennsylvania,2024-11-12
+388,Apple Cinnamon Breakfast Muffins,Food - Bakery,3.49,57,Mississippi,2024-10-31
+389,Scented Candles,Home,19.99,43,Missouri,2025-06-22
+390,Mediterranean Chickpea Salad,Food - Salads,5.99,34,Alabama,2024-09-24
+391,Electric Ice Cream Maker,Kitchen,59.99,9,Texas,2024-09-10
+392,Silicone Baking Cups,Kitchen,10.99,63,Arkansas,2024-11-22
+393,Casual Cropped Sweater,Clothing - Sweaters,39.99,75,Michigan,2024-11-29
+394,Travel Mug with Leak-Proof Lid,Kitchen,24.99,12,South Carolina,2025-05-04
+395,Organic Tomato Ketchup,Food - Condiments,3.49,18,North Carolina,2024-12-11
+396,Pine Nuts,Food - Nuts,7.99,25,Colorado,2025-07-16
+397,Pocket Blanket,Outdoor,24.99,37,Georgia,2025-02-28
+398,Margherita Pizza,Food - Frozen Foods,7.99,73,Texas,2025-01-12
+399,Chicken Broth,Food - Canned Goods,2.49,77,Illinois,2024-10-03
+400,Pet Nail Clipper,Pets,12.99,7,Texas,2025-07-10
+401,Pumpkin Pancake Mix,Food - Breakfast,4.19,77,Ohio,2025-07-16
+402,Coconut Curry Lentils,Food - Canned Goods,5.79,84,Texas,2025-02-05
+403,Fried Rice,Food - Frozen Foods,4.29,82,Georgia,2024-08-15
+404,Handcrafted Wooden Coasters,Home,19.99,5,Nevada,2024-10-11
+405,Kale Caesar Salad Kit,Food - Salads,5.99,32,Arizona,2024-10-18
+406,Cinnamon Roll Kit,Food - Baking,6.89,23,California,2025-02-09
+407,Cable Knit Cardigan,Clothing - Outerwear,49.99,39,California,2025-05-29
+408,USB-C Hub,Computers,39.99,73,California,2024-11-06
+409,Ground Turkey,Food - Meat,5.49,74,Kentucky,2025-03-26
+410,Pet Grooming Glove,Pets,12.99,38,District of Columbia,2025-07-05
+411,Travel Shoe Bags Set,Travel,15.99,65,Texas,2024-09-03
+412,Coffee Subscription Service,Food,29.99,33,New York,2025-05-19
+413,Vegetable Samosas,Food - Frozen,4.99,40,Texas,2024-12-08
+414,Low-Fat Yogurt,Food - Dairy,3.29,13,California,2025-05-26
+415,Picnic Blanket,Outdoor,29.99,96,Colorado,2025-01-06
+416,Fitness Tracker with Heart Rate Monitor,Fitness,59.99,17,Virginia,2025-02-27
+417,Frozen Pizza,Food - Frozen Foods,7.99,54,Florida,2024-10-30
+418,Electric Ice Cream Maker,Kitchen,59.99,12,Florida,2025-01-27
+419,Electric Wine Opener,Kitchen,29.99,59,Virginia,2025-05-09
+420,Creamy Tomato Basil Soup,Food - Canned Goods,3.29,72,Colorado,2025-07-02
+421,Tahini,Food - Condiments,5.49,81,California,2025-05-07
+422,Oven-Baked Cheese Crisps,Food - Snacks,3.99,33,Georgia,2025-08-06
+423,Ramen Noodle Soup Cups,Food - Prepared Meals,1.29,31,California,2024-08-27
+424,Cooking Utensil Set,Kitchen,24.99,93,Louisiana,2024-09-10
+425,Sweet and Sour Sauce,Food - Condiments,2.79,99,Louisiana,2025-01-10
+426,Chickpeas,Food - Canned Goods,1.29,44,Oklahoma,2025-01-19
+427,Almond Butter Cups,Food - Snacks,3.29,72,Tennessee,2024-09-08
+428,Pleated Midi Dress,Clothing - Dresses,79.99,48,Florida,2025-05-14
+429,Pet Travel Bed,Pets,26.99,68,Texas,2025-07-02
+430,Buffalo Cauliflower Bites,Food - Freezer,6.29,61,Pennsylvania,2025-03-26
+431,Portable Solar Path Lights,Outdoor,39.99,29,Indiana,2025-04-20
+432,Buffalo Chicken Dip,Food - Dips,5.99,46,Illinois,2025-07-31
+433,Almond Crunch Granola Bars,Food - Snacks,3.49,56,Minnesota,2024-11-05
+434,Grilled Veggie Burgers,Food - Meat Alternatives,6.29,49,Virginia,2025-04-18
+435,Chocolate Chip Cookie Dough,Food - Baking,5.49,33,New Mexico,2025-08-09
+436,Vegetable Korma,Food - Frozen,6.49,17,Connecticut,2024-09-26
+437,Coffee Subscription Service,Food,29.99,74,North Carolina,2025-03-28
+438,Car Seat Organizer,Automotive,14.99,86,California,2025-01-31
+439,Vegan Alfredo Sauce,Food - Sauces,4.99,95,Pennsylvania,2025-06-14
+440,Honey Roasted Chickpeas,Food - Snacks,3.29,8,Minnesota,2024-10-08
+441,Cinnamon Rolls,Food - Bakery,4.49,72,Illinois,2024-10-22
+442,Multi-Tool,Outdoor,39.99,5,Georgia,2025-03-15
+443,Buffalo Stilton Cheese,Food - Cheese,8.99,93,Texas,2025-08-10
+444,Herbal Tea Infuser,Kitchen,9.99,16,Ohio,2024-10-26
+445,Luxury Rolling Makeup Case,Beauty,99.99,76,New Jersey,2025-03-28
+446,Snap-On Tupperware Set,Kitchen,34.99,77,Florida,2025-02-28
+447,Adjustable Height Standing Desk Converter,Office,89.99,100,Kentucky,2025-03-17
+448,Compact Portable Grill,Outdoor,79.99,76,Florida,2024-09-01
+449,Wireless Printer,Office,99.99,43,Montana,2024-08-26
+450,Wall Decals for Kids,Home,24.99,8,Ohio,2024-09-04
+451,Pet Safety Belt for Car,Pets,14.99,60,California,2024-11-30
+452,Art Supplies Organizer,Art Supplies,18.99,24,Ohio,2024-12-20
+453,Fitness Foam Roller,Fitness,29.99,18,California,2025-07-14
+454,Digital Thermostat,Home,59.99,50,California,2025-07-29
+455,Smart WiFi Plug,Smart Home,19.99,66,California,2024-08-20
+456,Microfiber Cleaning Cloths,Home,9.99,77,West Virginia,2024-10-26
+457,Bamboo Bathtub Caddy,Home,34.99,12,Texas,2025-07-02
+458,Handcrafted Wooden Jewelry Box,Accessories,39.99,5,Kansas,2025-01-20
+459,Window Bird Feeder,Outdoor,19.99,21,Pennsylvania,2025-03-18
+460,Acoustic Guitar,Music,199.99,63,Texas,2025-03-31
+461,Sweet Pea Hummus,Food - Dips,4.29,50,Illinois,2025-04-29
+462,Chickpea Snack Mix,Food - Snacks,3.49,33,California,2025-04-04
+463,Butternut Squash Soup,Food - Soups,3.49,96,Florida,2024-10-10
+464,Laptop Stand,Accessories,29.99,65,California,2024-10-04
+465,Screen Cleaning Kit,Electronics,15.99,89,Delaware,2024-10-21
+466,Lasagna Noodles,Food - Pasta,1.89,33,Texas,2024-10-25
+467,Herbed Goat Cheese,Food - Cheese,5.49,35,Oklahoma,2025-07-13
+468,Digital Drawing Tablet,Art Supplies,79.99,50,Arizona,2024-12-02
+469,Kale Caesar Salad Kit,Food - Salads,5.99,54,Missouri,2024-10-31
+470,Garlic Herb Cream Cheese,Food - Dairy,2.99,14,Texas,2025-07-17
+471,Decorative Throw Blanket,Home,39.99,4,Texas,2025-02-24
+472,Classic Cheesecake Mix,Food - Desserts,4.99,32,District of Columbia,2025-05-12
+473,Non-Stick Baking Sheets,Kitchen,29.99,74,Texas,2025-05-18
+474,Pecan Nuts,Food - Snacks,6.49,56,Ohio,2024-12-30
+475,Pumpkin Pancake Mix,Food - Breakfast,4.19,11,Florida,2024-12-19
+476,Water-Resistant Bluetooth Speaker,Audio,59.99,85,Texas,2024-11-06
+477,Self-Adhesive Wallpaper,Home,34.99,12,New York,2024-12-24
+478,Personal Blender,Kitchen,39.99,72,Idaho,2025-04-27
+479,Portable Camping Stove,Outdoor,49.99,65,Arizona,2025-01-05
+480,Sea Salt Caramel Brownie,Food - Bakery,2.49,18,Ohio,2025-02-27
+481,Dog Collar,Pets,15.99,13,Kansas,2024-11-03
+482,Desk Lamp with USB Port,Office,29.99,58,New York,2025-07-12
+483,Wireless Range Extender,Electronics,49.99,40,Arizona,2025-05-26
+484,Bamboo Utensil Holder,Kitchen,14.99,51,New York,2025-06-30
+485,Digital Kitchen Timer,Kitchen,14.99,89,Florida,2025-04-22
+486,Coconut Lime Rice,Food - Sides,2.99,2,Virginia,2024-09-09
+487,Teriyaki Beef Jerky,Food - Snacks,5.49,64,Florida,2025-07-04
+488,Organic Quinoa Chips,Food - Snacks,3.99,71,Illinois,2025-07-23
+489,Foot Massager Machine,Health,59.99,74,Missouri,2024-08-26
+490,Wrap Front Midi Skirt,Clothing - Bottoms,44.99,33,New York,2025-08-08
+491,Frozen Edamame,Food - Frozen Foods,3.29,58,California,2025-04-16
+492,Folding Table,Outdoor,59.99,1,Wisconsin,2025-03-04
+493,Sporty Leggings,Clothing - Activewear,39.99,17,Texas,2025-03-08
+494,Mini Indoor Hydroponic Garden,Garden,59.99,99,Kentucky,2024-10-29
+495,Classic Pesto Sauce,Food - Sauces,4.29,45,California,2025-02-18
+496,Mini Waffle Maker,Kitchen,24.99,76,Ohio,2025-07-26
+497,Creamy Coleslaw Mix,Food - Produce,2.39,98,Oregon,2025-07-02
+498,Electric Griddle,Kitchen,54.99,39,Washington,2025-02-20
+499,Digital Bullet Journal,Apps,24.99,65,Massachusetts,2024-11-15
+500,Two-Tone Windbreaker,Clothing - Outerwear,59.99,81,Pennsylvania,2025-01-21
+501,Oatmeal Raisin Cookies,Food - Baked Goods,3.49,79,Texas,2024-09-15
+502,Salsa Verde,Food - Condiments,3.49,85,Michigan,2024-08-18
+503,Portable Bluetooth Keyboard,Electronics,39.99,33,Louisiana,2025-01-28
+504,Cheddar & Bacon Potato Skins,Food - Frozen,7.49,15,Washington,2024-12-16
+505,Vegetable Spring Rolls,Food - Frozen Foods,6.49,94,Louisiana,2025-01-12
+506,Foam Building Blocks for Kids,Toys,22.99,47,Missouri,2024-11-07
+507,Electric Hot Pot,Kitchen,49.99,87,Texas,2024-10-26
+508,Organic Quinoa,Food - Grains,4.29,82,Texas,2024-10-21
+509,Honey Graham Crackers,Food - Snacks,3.29,15,California,2024-09-22
+510,Wall Planner,Office,19.99,62,Texas,2025-04-05
+511,Vegetable Spiralizer,Kitchen,19.99,50,Texas,2025-03-24
+512,Greek Yogurt Parfait,Food - Dairy,4.49,14,New York,2024-12-03
+513,Sweet BBQ Dipping Sauce,Food - Condiments,3.49,52,Utah,2024-12-15
+514,Luxury Rolling Makeup Case,Beauty,99.99,75,Texas,2024-11-09
+515,Chiffon Blouse,Clothing - Shirts,39.99,81,Texas,2025-02-25
+516,Teriyaki Beef Jerky,Food - Snacks,5.49,32,Maryland,2024-11-22
+517,Italian Marinara Sauce,Food - Sauces,3.29,9,Arizona,2024-12-23
+518,Belted Trench Coat,Clothing - Outerwear,89.99,20,District of Columbia,2024-10-30
+519,Herb Drying Rack,Garden,22.99,4,Florida,2025-01-25
+520,Utility Cargo Pants,Clothing - Pants,54.99,61,Nevada,2024-10-08
+521,Wireless Security Camera,Home,109.99,82,Georgia,2025-06-11
+522,Silicone Baking Mat Set,Kitchen,24.99,60,District of Columbia,2024-11-05
+523,Portable USB-C Monitor,Electronics,199.99,92,South Carolina,2024-12-11
+524,Blueberry Muffin Mix,Food - Baking,4.29,20,Colorado,2025-01-05
+525,Maple Syrup,Food - Condiments,6.99,48,Colorado,2025-07-10
+526,Pepper Jack Cheese Sticks,Food - Snacks,2.49,25,Kansas,2025-07-19
+527,Frozen Acai Purée,Food - Frozen,6.99,64,California,2024-08-19
+528,Pasta (Fusilli),Food - Pasta,1.79,84,Florida,2025-01-18
+529,Trainers with Mesh Inserts,Clothing - Footwear,69.99,27,California,2025-02-01
+530,Chocolate Covered Pretzels,Food - Snacks,3.29,88,Georgia,2025-06-13
+531,Body Wash,Beauty,12.99,25,Florida,2024-11-14
+532,Mango Chili Salsa,Food - Condiments,4.29,11,North Carolina,2024-11-28
+533,Outdoor Portable Fire Pit,Outdoor,149.99,11,Pennsylvania,2025-05-14
+534,Eggs (dozen),Food - Dairy,2.99,18,Georgia,2024-12-17
+535,Portable Laptop Table,Office,39.99,64,Florida,2025-05-02
+536,Wireless Keyboard and Mouse Combo,Electronics,34.99,96,Nevada,2025-05-23
+537,Portable Solar Camp Shower,Outdoor,29.99,83,Maryland,2025-05-09
+538,Tattoo Kit,Art Supplies,99.99,29,Missouri,2024-10-20
+539,Sea Salt Caramel Brownie,Food - Bakery,2.49,32,Minnesota,2025-02-26
+540,Spinach Pizza Rolls,Food - Frozen Foods,4.99,18,Oregon,2025-03-28
+541,Travel Eye Mask with Ear Plugs,Travel,15.99,67,North Carolina,2025-01-11
+542,Scent Diffuser,Home,34.99,96,Colorado,2025-07-24
+543,Arcade Game Machine,Gaming,299.99,48,Colorado,2025-02-15
+544,Art Supplies Organizer,Art Supplies,18.99,5,California,2025-05-19
+545,Air Fryer,Kitchen,79.99,40,Ohio,2024-10-08
+546,Digital Wireless Camera,Home Security,199.99,86,Utah,2024-11-25
+547,Saffron Rice Mix,Food - Grains,2.99,41,Georgia,2025-02-15
+548,Suede Ankle Booties,Clothing - Footwear,79.99,34,New York,2024-09-28
+549,Electric Skillet,Kitchen,49.99,13,Florida,2025-07-12
+550,Lightweight Workout Tank,Clothing - Activewear,29.99,7,Hawaii,2024-10-30
+551,Insulated Cooler,Outdoor,39.99,69,Tennessee,2025-06-26
+552,Baking Powder,Food - Baking Goods,1.79,66,California,2025-03-01
+553,Sports Windbreaker,Clothing - Outerwear,44.99,10,Ohio,2024-10-24
+554,Trail Mix (Deluxe),Food - Snacks,4.59,24,Washington,2024-12-12
+555,Lightweight Travel Backpack,Travel,39.99,63,Georgia,2025-02-10
+556,Cushion Covers,Home,35,77,New York,2024-09-01
+557,Californian Raisins,Food - Dried Fruits,3.19,45,California,2024-10-14
+558,Fishing Rod,Outdoor,49.99,21,Pennsylvania,2025-05-30
+559,Puff Pastry,Food - Bakery,5.49,79,Texas,2025-07-07
+560,Honey Roasted Peanuts,Food - Snacks,3.19,63,Pennsylvania,2025-06-09
+561,Chocolate Chip Cookie Mix,Food - Baking,2.49,36,Ohio,2025-03-23
+562,Adjustable Resistance Bands,Fitness,39.99,61,California,2025-01-04
+563,Plant Watering Spikes,Garden,12.99,10,Ohio,2025-04-07
+564,Coconut Chia Seed Pudding,Food - Snacks,2.99,16,Alabama,2024-11-05
+565,Peanut Butter Pretzel Bites,Food - Snacks,4.19,59,Texas,2025-04-24
+566,Turmeric Ginger Tea,Food - Beverages,3.29,58,Connecticut,2025-05-25
+567,Cheesy Broccoli Soup Mix,Food - Soups,2.99,46,Florida,2025-03-29
+568,Smart Plug,Smart Home,19.99,93,Colorado,2024-11-28
+569,Shatterproof Wine Glasses,Outdoor,24.99,23,Georgia,2024-11-04
+570,LED Desk Light,Home,34.99,53,Georgia,2025-01-18
+571,Lockable Bicycle Chain,Outdoor,19.99,59,North Carolina,2025-01-30
+572,Maple Syrup,Food - Condiments,6.99,99,North Dakota,2025-02-05
+573,Chocolate Coconut Granola,Food - Cereals,3.79,67,Indiana,2025-01-29
+574,Portable Campfire,Outdoor,39.99,29,New Mexico,2025-07-18
+575,Mini Food Processor,Kitchen,39.99,89,New York,2024-09-28
+576,Spicy Avocado Salsa,Food - Condiments,4.49,17,Illinois,2025-05-11
+577,Honey Wheat Pretzels,Food - Snacks,3.49,62,Pennsylvania,2025-06-05
+578,Sports Bottle,Fitness,15.99,64,Nevada,2024-12-22
+579,Weighted Blanket,Health,79.99,6,Oklahoma,2025-05-24
+580,Faux Leather Leggings,Clothing - Pants,49.99,65,Minnesota,2024-12-15
+581,Organic Whole Wheat Flour,Food - Baking Goods,2.99,40,Arkansas,2024-09-10
+582,Car Phone Mount,Automotive,15.99,45,South Dakota,2025-04-17
+583,Ceramic Knife Set,Kitchen,39.99,9,Virginia,2025-02-18
+584,Electric Kettle with Temperature Control,Kitchen,49.99,93,Connecticut,2025-03-28
+585,LED Desk Lamp with USB Charging Port,Office,29.99,29,California,2024-12-05
+586,Electric Griddle,Kitchen,54.99,24,New York,2025-02-22
+587,Coconut Lime Rice,Food - Sides,2.99,31,Missouri,2024-08-15
+588,Eco-Friendly Stainless Steel Straws,Kitchen,12.99,77,New Jersey,2024-10-13
+589,Pasta Portion Control Measure,Kitchen,9.99,72,Georgia,2025-05-20
+590,Smoked Salmon,Food - Seafood,14.99,17,Connecticut,2025-06-12
+591,Peas (frozen),Food - Frozen Foods,1.89,49,California,2024-08-26
+592,High-Speed HDMI Cable,Electronics,12.99,38,Kentucky,2025-03-02
+593,Tomato Sauce,Food - Canned Goods,2.79,38,California,2024-11-17
+594,Men's Waterproof Hiking Boots,Footwear,89.99,25,Ohio,2024-10-30
+595,Fresh Basil Pesto,Food - Sauces,4.79,32,New York,2025-05-20
+596,Dishwasher Safe Cutting Board,Kitchen,22.99,17,District of Columbia,2025-03-30
+597,Dog Collar,Pets,15.99,75,Missouri,2024-12-23
+598,Wooden Kitchen Utensil Set,Kitchen,19.99,41,California,2024-12-22
+599,Bamboo Utensil Holder,Kitchen,14.99,100,Michigan,2025-05-26
+600,Almond Butter Granola Bars,Food - Snacks,4.99,2,Tennessee,2024-08-20
+601,Chili Garlic Sauce,Food - Condiments,2.49,85,Texas,2024-11-12
+602,Gluten-Free Biscuits,Food - Baking,3.79,2,Minnesota,2024-10-07
+603,Portable Electric Fan,Home,24.99,33,District of Columbia,2025-03-26
+604,Pepperoni Pizza Rolls,Food - Snacks,6.99,63,California,2024-09-04
+605,Oats,Food - Grains,3.29,55,Texas,2025-05-17
+606,Feta Cheese Crumbles,Food - Dairy,2.49,19,North Carolina,2024-09-17
+607,Thermostatic Shower Valve Kit,Bathroom,39.99,17,Florida,2024-09-09
+608,Silicone Cooking Utensils Set,Kitchen,34.99,85,Virginia,2024-12-20
+609,Tandoori Chicken Skewers,Food - Meat,7.99,83,Tennessee,2024-08-24
+610,Sliced Provolone Cheese,Food - Dairy,3.99,94,Georgia,2024-10-09
+611,Vanilla Pudding Mix,Food - Baking,1.29,67,Michigan,2025-01-19
+612,Electric Rice Cooker,Kitchen,39.99,34,Virginia,2024-09-21
+613,Smart Water Bottle with Hydration Reminder,Fitness,39.99,3,Virginia,2024-11-11
+614,Travel Yoga Mat,Fitness,34.99,81,Texas,2024-12-12
+615,Chipotle Seasoning Blend,Food - Spices,2.49,12,Pennsylvania,2024-12-16
+616,Eco-Friendly Cleaning Cloths,Home,12.99,18,Michigan,2025-05-01
+617,Garlic and Herb Rub,Food - Spices,2.29,61,California,2025-03-19
+618,Trackpad for Laptop,Accessories,49.99,70,Nebraska,2024-12-22
+619,Pet Hair Remover,Pets,9.99,14,Idaho,2025-01-04
+620,Lightweight Rain Jacket,Clothing - Outerwear,79.99,75,Alabama,2025-01-13
+621,Artisan Pickles,Food - Condiments,2.49,36,Texas,2024-12-24
+622,Dark Chocolate Bars,Food - Snacks,2.99,68,California,2025-06-05
+623,Wireless Charger,Accessories,24.99,47,District of Columbia,2024-08-18
+624,Honey Ginger Tea,Food - Beverages,2.99,65,Louisiana,2025-01-24
+625,Window A/C Unit,Home Appliances,299.99,7,North Carolina,2024-09-21
+626,Yoga Strap,Fitness,12.99,5,Ohio,2024-08-25
+627,Deep Tissue Massage Gun,Health,89.99,18,Ohio,2024-10-18
+628,Fitness Jump Rope,Fitness,15.99,28,Virginia,2025-05-02
+629,Handcrafted Wooden Jewelry Box,Accessories,39.99,35,Illinois,2025-02-07
+630,Instant Mashed Potatoes,Food - Sides,1.79,43,Pennsylvania,2024-09-29
+631,Vegetable Lentil Soup,Food - Canned Goods,3.49,6,Texas,2025-06-19
+632,Red Lentil Pasta,Food - Pasta,3.99,92,North Carolina,2025-01-01
+633,Self-Cleaning Cat Litter Box,Pets,199.99,70,New Jersey,2025-02-10
+634,Teriyaki Salmon Fillets,Food - Seafood,9.99,15,Virginia,2024-10-14
+635,Home Delivery Food Journal,Health,14.99,83,Tennessee,2024-11-02
+636,Chocolate Almond Milk,Food - Dairy Alternatives,2.79,9,Pennsylvania,2025-02-05
+637,Pasta Maker,Kitchen,39,61,Florida,2025-07-25
+638,Pet Training Clicker,Pets,5.99,5,California,2025-06-21
+639,Vanilla Ice Cream,Food - Frozen Foods,4.99,26,California,2025-05-19
+640,Foldable Yoga Mat,Fitness,29.99,79,Illinois,2025-07-18
+641,Wireless Keyboard and Mouse Combo,Electronics,34.99,44,New York,2025-06-13
+642,Cinnamon Ice Cream,Food - Frozen Desserts,4.99,10,Florida,2025-03-22
+643,Mango Chia Pudding,Food - Snacks,4.49,87,Florida,2025-06-18
+644,Baked Falafel Balls,Food - Frozen Vegetables,5.99,62,Colorado,2025-07-18
+645,Lentil Vegetable Curry,Food - Prepared Meals,4.49,74,Oklahoma,2024-09-15
+646,Professional Chef Knife,Kitchen,89.99,46,Pennsylvania,2025-04-11
+647,Organic Italian Seasoning,Food - Spices,2.99,10,Florida,2025-07-09
+648,Fitness Balance Ball,Fitness,24.99,34,Ohio,2024-11-15
+649,Sliced Ham,Food - Meat,5.49,13,New York,2025-07-03
+650,Almond Flour Bread Mix,Food - Baking,4.89,49,Alabama,2024-11-12
+651,Vegan chocolate chip cookies,Food - Bakery,4.79,82,Virginia,2024-08-27
+652,Travel Yoga Mat,Fitness,34.99,13,New Jersey,2025-04-15
+653,Natural Peanut Butter,Food - Spreads,4.29,38,Nebraska,2024-09-21
+654,Honey Sesame Cashews,Food - Snacks,4.49,41,California,2025-03-14
+655,Peach Slices in Syrup,Food - Canned Goods,2.59,8,California,2025-03-08
+656,Ginger Turmeric Shots,Food - Beverages,3.99,79,District of Columbia,2025-04-27
+657,Mini Indoor Hydroponic Garden,Garden,59.99,95,Florida,2024-10-28
+658,Teriyaki Beef Jerky,Food - Snacks,5.49,91,Illinois,2025-08-10
+659,Electric Skillet,Kitchen,49.99,8,Texas,2025-01-01
+660,Magnetic Curtain Tiebacks,Home,12.99,22,California,2025-05-19
+661,Rechargeable Hand Warmer,Accessories,22.99,21,Pennsylvania,2025-03-15
+662,Chocolate Coconut Granola,Food - Cereals,3.79,79,Florida,2025-02-08
+663,Tailgating Set,Outdoor,89.99,41,Arizona,2024-09-25
+664,Bamboo Cutting Board,Kitchen,22,58,South Carolina,2025-05-20
+665,Saffron Rice Mix,Food - Grains,2.99,44,Texas,2025-03-29
+666,Camping Lantern,Outdoor,34.99,12,Georgia,2025-01-06
+667,Organic Vanilla Bean Ice Cream,Food - Frozen Desserts,5.99,66,Missouri,2024-10-04
+668,Tailored Blazer,Clothing - Outerwear,99.99,68,Arizona,2024-12-13
+669,Crispy Rice Treats,Food - Snacks,3.5,50,Michigan,2025-06-18
+670,Nutty Trail Mix,Food - Snacks,4.29,15,Colorado,2025-02-08
+671,Caramelized Onion Dip Mix,Food - Snacks,2.29,67,Ohio,2025-04-08
+672,Eco-Friendly Cleaning Cloths,Home,12.99,25,South Dakota,2025-04-12
+673,Solar Power Bank,Electronics,39.99,42,Colorado,2025-07-23
+674,Portable Speakers,Audio,69.99,89,Georgia,2025-07-30
+675,Ankle Boots,Clothing - Footwear,89.99,37,Indiana,2025-01-19
+676,Digital Food Thermometer,Kitchen,19.99,79,Texas,2025-03-31
+677,Mini Indoor Herb Garden Kit,Garden,24.99,43,Virginia,2025-05-28
+678,Homemade Salsa,Food - Condiments,3.79,20,Virginia,2025-05-22
+679,Mini Meatballs,Food - Frozen Meals,5.99,76,New York,2025-01-06
+680,Savory Oatmeal,Food - Breakfast,2.49,97,District of Columbia,2024-08-24
+681,Hiking Boots,Footwear,79.99,20,Kansas,2024-09-05
+682,Canvas High-Top Sneakers,Clothing - Footwear,49.99,46,Texas,2024-10-15
+683,Quinoa & Black Bean Salad,Food - Salads,7.49,81,California,2024-11-24
+684,Almond Butter Cups,Food - Snacks,3.29,20,Mississippi,2024-11-26
+685,Leather Notebook Cover,Office,29.99,18,Texas,2025-06-22
+686,Mini Waffle Maker,Kitchen,24.99,35,Arkansas,2024-10-02
+687,Fruit and Nut Energy Bites,Food - Snacks,2.99,4,Kentucky,2025-08-11
+688,Portable Solar Charger,Electronics,29.99,63,Oklahoma,2025-01-18
+689,Fitness Resistance Bands,Fitness,29.99,69,Texas,2024-12-28
+690,Cereal Dispenser with Portion Control,Kitchen,24.99,81,Alabama,2025-01-11
+691,Honey mustard chicken tenders,Food - Meat,7.99,6,Delaware,2025-05-05
+692,Cheesy Cauliflower Bake,Food - Frozen Vegetables,5.49,2,Texas,2024-11-20
+693,Peanut Butter Pretzel Bites,Food - Snacks,4.19,45,New York,2024-12-21
+694,Handheld Shower Head,Bathroom,34.99,21,Texas,2024-09-20
+695,Emergency Preparedness Kit,Safety,99.99,100,Kansas,2025-02-21
+696,Cranberry Almond Granola,Food - Breakfast,4.29,41,Pennsylvania,2025-05-03
+697,Compact Dishwasher,Home Appliances,299.99,37,Oregon,2024-11-06
+698,Foldable Yoga Mat,Fitness,29.99,78,Oklahoma,2025-02-05
+699,Air Mattress,Outdoor,49.99,58,Tennessee,2024-09-02
+700,Zesty Garlic Hummus,Food - Snacks,3.99,65,Kansas,2025-05-05
+701,Peanut Butter Chocolate Clusters,Food - Desserts,2.99,4,Texas,2024-12-05
+702,Smartphone UV Sanitizer,Health,39.99,64,Iowa,2025-02-21
+703,LED Strip Light Kit,Home,39.99,11,Texas,2025-04-12
+704,Cotton Sweatpants,Clothing - Bottoms,29.99,89,California,2025-03-19
+705,Mushrooms,Food - Produce,2.99,95,Florida,2025-06-22
+706,Cinnamon Sugar Mix,Food - Baking,1.49,36,New York,2024-09-25
+707,Coconut Cream Pie Yogurt,Food - Dairy Alternatives,1.99,79,Montana,2024-11-25
+708,Wooden Toy Train Set,Toys,29.99,71,Arizona,2025-07-14
+709,Portable Charcoal Grill,Outdoor,89.99,47,Utah,2025-06-07
+710,Pomegranate Juice,Food - Beverages,4.49,44,Florida,2025-07-17
+711,Bamboo Toothbrush Holder,Health,14.99,74,Texas,2025-05-07
+712,Electric Skillet,Kitchen,49.99,7,Connecticut,2025-05-19
+713,Foldable Yoga Mat,Fitness,29.99,46,Indiana,2025-01-05
+714,Pumpkin Waffles,Food - Breakfast,4.49,65,District of Columbia,2024-10-21
+715,Kids' STEM Robotics Kit,Toys,59.99,33,New Mexico,2024-12-30
+716,Vegetable Medley,Food - Produce,2.99,22,California,2025-01-02
+717,Lemonade Mix,Food - Beverages,1.99,6,Michigan,2025-07-21
+718,Workstation Laptop Stand,Office,49.99,20,New York,2025-01-29
+719,Reusable Snack Bags,Kitchen,14.99,20,Tennessee,2025-07-31
+720,Electric Hot Pot,Kitchen,49.99,29,Mississippi,2025-05-11
+721,Cream Cheese,Food - Dairy,2.69,87,New York,2025-04-13
+722,Ergonomic Mouse Pad with Wrist Support,Office,14.99,38,South Dakota,2024-12-20
+723,Banana Nut Oatmeal Cups,Food - Breakfast,2.99,69,Virginia,2024-12-01
+724,Tomato Paste,Food - Canned Goods,1.29,76,New York,2025-01-07
+725,Coconut Macaroons,Food - Confectionery,4.99,60,Colorado,2024-09-17
+726,Peach Mango Smoothie Mix,Food - Beverages,5.99,74,Virginia,2025-02-04
+727,Baked Potato Chips,Food - Snacks,2.49,37,Louisiana,2025-02-05
+728,Athletic Sports Bra,Clothing - Activewear,24.99,9,Minnesota,2025-03-17
+729,Paint By Numbers Kit,Art Supplies,24.99,48,Texas,2024-08-17
+730,Teriyaki Chicken Skewers,Food - Meat,8.99,71,Texas,2024-08-14
+731,Wall-Mounted Spice Rack,Kitchen,39.99,24,Florida,2024-09-12
+732,Smart Light Bulbs,Smart Home,34.99,15,Kentucky,2025-01-04
+733,Maple Almond Yogurt,Food - Dairy,1.89,52,Florida,2025-08-11
+734,Granulated Sugar,Food - Baking,2.49,88,Texas,2025-08-04
+735,Pressure Washer Accessories Kit,Home Improvement,39.99,92,Louisiana,2024-08-21
+736,Adjustable Height Standing Desk Converter,Office,89.99,61,New York,2025-02-04
+737,Cranberry Pecan Granola,Food - Breakfast Foods,3.99,81,Louisiana,2024-12-12
+738,Brazil Nuts,Food - Nuts,10.99,10,Tennessee,2024-12-21
+739,Travel Luggage Scale,Travel,14.99,9,Louisiana,2025-02-24
+740,Pet Training Clicker,Pets,5.99,96,Florida,2025-01-21
+741,Caramel Apple Taffy,Food - Confectionery,1.99,49,New York,2025-03-12
+742,Reclining Camping Chair,Outdoor,49.99,33,Florida,2024-08-16
+743,Homestyle Chicken Noodle Soup,Food - Canned Goods,2.99,65,Texas,2024-09-02
+744,Lemon Herb Grilled Chicken,Food - Meat,9.99,40,Illinois,2025-04-09
+745,Organic Almond Flour,Food - Baking,6.99,9,West Virginia,2025-05-16
+746,Garden Tool Set,Garden,34.99,67,Oklahoma,2025-08-06
+747,Digital Alarm Clock,Home,19.99,75,Texas,2024-11-17
+748,Pet Training Clicker,Pets,5.99,99,California,2025-02-03
+749,Portable Bluetooth Headphones,Audio,79.99,20,Texas,2025-06-03
+750,Spinach Pizza Rolls,Food - Frozen Foods,4.99,52,Arizona,2025-08-12
+751,Chocolate Hazelnut Spread,Food - Spreads,5.99,57,Arizona,2024-11-24
+752,Raspberry Limeade,Food - Beverages,1.99,81,Utah,2025-06-05
+753,Smoked Salmon,Food - Seafood,14.99,14,Ohio,2025-08-09
+754,Throw Pillow Covers,Home,22.99,38,Texas,2025-05-15
+755,Quinoa and Kale Salad Kit,Food - Salads,5.29,9,Georgia,2025-02-05
+756,Adjustable Yoga Mat Strap,Fitness,14.99,27,Arizona,2025-04-25
+757,Classic Vanilla Fudge,Food - Desserts,4.49,77,California,2025-05-06
+758,Sweet Potato and Chickpea Bowl,Food - Frozen Food,6.49,59,Oklahoma,2025-03-02
+759,Field Journal,Books,14.99,57,Pennsylvania,2025-07-29
+760,LED Desk Lamp with USB Charging,Office,39.99,28,Missouri,2025-07-07
+761,Herb Seasoned Croutons,Food - Salad Toppings,2.99,56,District of Columbia,2025-02-12
+762,Outdoor Camping Hammock,Outdoor,29.99,34,Indiana,2025-06-24
+763,Key Finder,Accessories,19.99,52,Ohio,2025-04-23
+764,Savory Snack Mix,Food - Snacks,4.49,74,Arizona,2024-12-18
+765,Thai Basil Fried Rice,Food - Frozen,5.99,60,Utah,2024-08-23
+766,Pumpkin Spice Cookies,Food - Bakery,3.29,28,Texas,2025-05-03
+767,Coconut Cream Pie,Food - Bakery,9.49,72,Illinois,2025-07-24
+768,Fruit and Nut Bars,Food - Snacks,1.99,37,Colorado,2025-01-12
+769,Honey mustard chicken tenders,Food - Meat,7.99,25,North Dakota,2025-02-08
+770,Apple Cinnamon Granola,Food - Breakfast,4.49,79,Pennsylvania,2024-09-22
+771,Banana Peanut Butter Smoothie,Food - Frozen Foods,5.49,23,District of Columbia,2025-07-20
+772,Chocolate Avocado Pudding,Food - Desserts,4.99,5,Georgia,2025-01-15
+773,Compact Hair Dryer,Beauty,29.99,56,Missouri,2025-07-23
+774,Pet Water Bottle,Pets,18.99,42,California,2024-12-20
+775,Garlic Butter Sauce,Food - Condiments,3.59,22,Virginia,2025-05-09
+776,Smart Water Bottle with Hydration Reminder,Fitness,39.99,14,District of Columbia,2024-08-27
+777,Baking Soda,Food - Baking,0.99,80,Texas,2025-05-11
+778,Homestyle Chicken Noodle Soup,Food - Canned Goods,2.99,61,Arizona,2025-07-24
+779,Multifunctional Pocket Tool,Tools,19.99,98,Florida,2024-09-06
+780,Educational STEM Kit,Toys,35.99,25,Florida,2024-12-04
+781,Homemade Salsa,Food - Condiments,3.79,83,Connecticut,2025-03-03
+782,Vegetable Korma,Food - Frozen,6.49,77,Texas,2024-12-22
+783,Telescope,Outdoor,159.99,16,Connecticut,2025-07-10
+784,Mini Air Purifier,Health,49.99,29,Florida,2025-07-28
+785,Chocolate Almond Milk,Food - Dairy Alternatives,2.79,26,California,2025-05-16
+786,Cauliflower Crust Pizza,Food - Freezer,7.99,53,Florida,2025-04-27
+787,Honey Mustard Pretzel Bites,Food - Snacks,3.99,26,Nebraska,2024-12-22
+788,Vegan Caesar Dressing,Food - Condiments,3.99,14,Texas,2025-01-04
+789,Linen Trousers,Clothing - Bottoms,44.99,52,Oregon,2024-09-17
+790,Safety Goggles,Safety,14.99,29,Mississippi,2025-03-26
+791,Vintage Graphic Tee,Clothing - Tops,25.99,3,Arizona,2025-01-24
+792,Bamboo Memory Foam Pillow,Home,34.99,29,Illinois,2025-07-28
+793,Wall-Mounted Bookshelf,Home,39.99,24,Delaware,2025-04-21
+794,Breezy Off-The-Shoulder Top,Clothing - Tops,34.99,9,Colorado,2024-08-15
+795,Sriracha Chili Sauce,Food - Condiments,2.79,35,California,2025-04-30
+796,Cat Tree with Scratching Posts,Pets,79.99,11,Wisconsin,2025-05-20
+797,Stuffed Peppers with Quinoa,Food - Prepared Meals,7.99,42,California,2025-06-28
+798,Almond Joy Bars,Food - Confectionery,1.29,81,Ohio,2025-04-21
+799,Classic Cheeseburger Mix,Food - Meats,5.49,82,Virginia,2024-12-07
+800,Cranberry Orange Oatmeal,Food - Breakfast,2.49,30,Illinois,2025-05-05
+801,Denim Jacket,Clothing - Outerwear,69.99,24,Missouri,2025-04-12
+802,Mango Chunks,Food - Frozen Fruits,4.89,34,Tennessee,2025-06-24
+803,Home Brewing Starter Kit,Food,79.99,38,Florida,2025-04-02
+804,Magnetic Screen Door,Outdoor,24.99,23,South Carolina,2024-12-14
+805,Pet Nail Clipper,Pets,12.99,25,Tennessee,2025-06-07
+806,Over-Ear Headphones,Audio,59.99,70,District of Columbia,2024-12-21
+807,Portable Charger with Solar Panel,Electronics,45.99,1,Oklahoma,2025-02-07
+808,Quality Chef Apron,Kitchen,19.99,22,Pennsylvania,2024-12-10
+809,Electric Egg Cooker,Kitchen,29.99,40,California,2025-01-22
+810,Sculpting Kit,Art Supplies,25.99,27,Pennsylvania,2024-11-24
+811,Adjustable Laptop Desk,Office,59.99,24,Connecticut,2025-06-14
+812,Zesty Garlic Hummus,Food - Snacks,3.99,55,Wyoming,2025-02-04
+813,Acoustic Guitar,Music,199.99,5,Missouri,2025-07-17
+814,Grilled Veggie Burgers,Food - Meat Alternatives,6.29,48,District of Columbia,2025-06-25
+815,Maple Cinnamon Almonds,Food - Nuts,4.29,96,Nevada,2025-04-12
+816,Freestanding Wine Rack,Home,79.99,3,Delaware,2025-02-13
+817,Coconut Oil Spray,Food - Cooking Oils,4.99,65,North Carolina,2024-10-12
+818,Portable USB-C Monitor,Electronics,199.99,76,Oklahoma,2025-05-22
+819,Smart Scale,Health,59.99,25,New York,2024-10-31
+820,Outdoor String Lights,Outdoor,24.99,6,Texas,2025-04-14
+821,Smartphone Projector,Electronics,29.99,60,California,2024-12-14
+822,Compact Umbrella,Accessories,12.99,7,Pennsylvania,2025-06-26
+823,Collapsible Folding Chair,Outdoor,29.99,48,Florida,2024-10-21
+824,Winter Knit Beanie,Clothing,14.99,98,Tennessee,2024-09-18
+825,Buffalo Style Cauliflower Bites,Food - Frozen Vegetables,5.49,44,Georgia,2025-06-30
+826,Oven-Baked Potato Chips,Food - Snacks,2.79,71,Georgia,2025-06-26
+827,Trail Mix (Deluxe),Food - Snacks,4.59,71,Indiana,2025-03-27
+828,Pet Activity Tracker,Pets,59.99,51,Washington,2025-01-20
+829,Cushion Covers,Home,35,35,Rhode Island,2025-06-13
+830,Mango Chutney,Food - Condiments,3.99,48,California,2025-07-16
+831,Hiking Water Bottle with Filter,Outdoor,29.99,69,Indiana,2025-06-11
+832,Salsa,Food - Condiments,3.49,78,South Carolina,2024-09-03
+833,Granola Bars,Food - Snacks,4.99,77,Arizona,2025-06-15
+834,Canned Sardines,Food - Seafood,3.29,79,Kentucky,2024-08-15
+835,Portable Speakers,Audio,69.99,74,Oklahoma,2025-01-12
+836,Margherita Pizza,Food - Frozen Foods,7.99,88,Alabama,2025-05-17
+837,Trainers with Mesh Inserts,Clothing - Footwear,69.99,23,California,2024-10-03
+838,Pet Grooming Gloves,Pets,9.99,38,New York,2025-01-23
+839,Memory Foam Mattress Pad,Home,69.99,64,South Carolina,2025-04-16
+840,Cheddar Cheese Crackers,Food - Snacks,2.29,24,New York,2025-02-11
+841,Vegetarian Sausage Links,Food - Meat Substitutes,5.89,14,North Carolina,2025-02-02
+842,Rustic Italian Breads,Food - Bakery,3.99,95,Florida,2024-12-24
+843,Electric Griddle,Kitchen,54.99,75,California,2025-07-17
+844,Mini Air Purifier,Health,49.99,74,Texas,2024-12-31
+845,Strawberry Fruit Spread,Food - Jams & Jellies,3.59,20,Maryland,2024-09-28
+846,Dried Fruit Medley,Food - Snacks,5.49,42,Florida,2025-01-04
+847,Decorative Throw Pillows,Home,29.99,64,Montana,2024-10-04
+848,Luxury Rolling Makeup Case,Beauty,99.99,28,California,2024-08-25
+849,Portable Speaker Stand,Audio,39.99,100,New York,2025-07-04
+850,Organic Quinoa,Food - Grains,4.29,1,California,2025-07-07
+851,Kids' Art Easel,Toys,58.99,23,Illinois,2025-03-03
+852,Blueberry Chia Jam,Food - Spreads,4.99,57,Michigan,2025-07-01
+853,Pumpkin Spice Pancake Mix,Food - Breakfast,3.49,80,Colorado,2025-02-05
+854,Smartphone Photography Tripod,Electronics,29.99,24,New York,2025-04-18
+855,Baked Mac and Cheese,Food - Frozen Foods,5.99,68,Florida,2024-09-22
+856,Pet Food Storage Container,Pets,24.99,70,Wisconsin,2024-11-01
+857,Peanut Butter Filled Pretzels,Food - Snacks,3.99,95,Texas,2025-05-27
+858,Sweet BBQ Dipping Sauce,Food - Condiments,3.49,71,Texas,2025-04-02
+859,Peanut Butter Pretzel Bites,Food - Snacks,4.19,42,California,2024-12-07
+860,Saffron Rice Mix,Food - Grains,2.99,13,Kansas,2025-07-20
+861,Cocktail Shaker Set,Kitchen,29.99,95,Virginia,2025-05-06
+862,Chicken Breasts,Food - Meat,9.99,85,Minnesota,2024-11-17
+863,Pomegranate Juice,Food - Beverages,4.49,34,California,2025-03-08
+864,Almond Butter,Food - Condiments,6.49,83,Washington,2024-11-12
+865,Bluetooth Headphones,Audio,79.99,60,Florida,2025-02-08
+866,Slingback Sandals,Clothing - Footwear,29.99,38,Colorado,2024-10-22
+867,Acoustic Guitar,Music,199.99,4,Texas,2025-07-02
+868,Almond Flour,Food - Baking,5.99,67,Minnesota,2025-08-05
+869,Chia Seed Pudding,Food - Snacks,3.99,50,District of Columbia,2024-12-01
+870,Sweet Potato and Chickpea Bowl,Food - Frozen Food,6.49,77,Hawaii,2025-06-08
+871,Dog Walking Waist Pack,Pets,19.99,58,Oregon,2025-04-06
+872,Chickpea Pancakes,Food - Frozen,4.99,76,Colorado,2024-10-27
+873,Smoky BBQ Jackfruit,Food - Grocery,4.99,17,California,2024-11-18
+874,Sturdy Bookends,Office,22.99,57,Pennsylvania,2025-01-10
+875,Almond Coconut Granola,Food - Breakfast Foods,3.99,18,New York,2025-02-20
+876,Spinach and Ricotta Ravioli,Food - Pasta,6.49,90,Georgia,2024-10-13
+877,Homemade Salsa,Food - Condiments,3.79,62,Florida,2025-01-17
+878,Garden Tool Belt,Garden,22.99,70,California,2024-09-05
+879,Bamboo Charcoal Air Purifier Bags,Home,12.99,17,Texas,2024-12-26
+880,Pineapple Teriyaki Chicken Mix,Food - Meat,6.99,50,Alabama,2025-01-18
+881,Eco-Friendly Cleaning Cloths,Home,12.99,82,West Virginia,2024-08-30
+882,Brown Rice,Food - Grains,1.79,11,South Carolina,2024-11-14
+883,Mushrooms,Food - Produce,2.99,85,Utah,2024-09-30
+884,Cheddar Cheese Crackers,Food - Snacks,2.29,11,Arkansas,2025-01-13
+885,Smoked Paprika,Food - Spices,2.99,86,Virginia,2025-04-11
+886,Smashed Avocado with Lime,Food - Condiments,2.49,99,Kansas,2024-10-02
+887,Brownie Bites,Food - Baked Goods,4.99,97,Texas,2025-05-26
+888,Chocolate Chip Cliff Bars,Food - Snacks,2.49,89,South Carolina,2024-08-26
+889,Wild Rice & Quinoa Mix,Food - Grains,2.99,79,Alabama,2024-12-14
+890,Winter Knit Beanie,Clothing,14.99,8,California,2025-05-13
+891,Nordic Berry Smoothie,Food - Frozen Foods,3.99,65,Texas,2025-03-02
+892,Mediterranean Olives,Food - Condiments,6.49,28,Wisconsin,2025-07-07
+893,Thyme,Food - Fresh Produce,2.49,68,Kentucky,2024-11-20
+894,Multi-Port USB Hub,Electronics,19.99,75,Texas,2025-03-12
+895,Cranberry Almond Cookies,Food - Bakery,4.29,64,Virginia,2025-02-24
+896,Sweet BBQ Dipping Sauce,Food - Condiments,3.49,66,Ohio,2025-02-28
+897,Stick Vacuums Cleaner,Home Appliances,129.99,53,California,2024-11-29
+898,Honey Garlic Shrimp,Food - Seafood,8.49,76,Massachusetts,2024-10-17
+899,Shower Curtain Hooks,Home,12.99,77,Pennsylvania,2025-07-26
+900,Spinach and Feta Stuffed Chicken Breast,Food - Meat,8.99,21,Utah,2024-12-06
+901,Gluten-Free Bread,Food - Bakery,5.49,53,New Mexico,2025-04-13
+902,Spinach and Cheese Stuffed Shells,Food - Frozen Meals,5.99,20,Minnesota,2025-02-20
+903,Compact Umbrella,Accessories,12.99,31,New Jersey,2025-02-13
+904,Stainless Steel BBQ Grill Set,Outdoor,49.99,11,Kentucky,2024-10-21
+905,Adjustable Bar Stools,Furniture,149.99,48,Texas,2025-08-09
+906,Portable Jump Starter,Automotive,59.99,67,Michigan,2025-01-03
+907,Outdoor String Lights,Outdoor,24.99,27,Rhode Island,2024-10-10
+908,Gaming Headset,Gaming,69.99,96,Texas,2024-12-13
+909,Asian Salad Mix,Food - Produce,3.99,72,Indiana,2024-10-04
+910,Magnetic Whiteboard,Office,34.99,75,Michigan,2025-04-27
+911,Lemon Basil Pasta Sauce,Food - Sauces,4.99,30,Texas,2025-07-16
+912,Dog Walking Waist Pack,Pets,19.99,90,Louisiana,2025-08-11
+913,Portable Charger with Solar Panel,Electronics,45.99,80,Texas,2025-05-15
+914,Ankle Boots,Clothing - Footwear,89.99,18,Pennsylvania,2024-12-03
+915,Hummus Variety Pack,Food - Dairy,5.99,21,North Carolina,2025-03-31
+916,Decorative Throw Pillows,Home,29.99,27,Iowa,2024-09-01
+917,Folding Table,Outdoor,59.99,73,New York,2024-09-25
+918,Electric Food Slicer,Kitchen,99.99,18,Ohio,2025-03-08
+919,Frozen Acai Bowl,Food - Frozen Foods,6.49,85,California,2025-04-03
+920,Coconut Cream Pie,Food - Bakery,9.49,97,Wisconsin,2025-08-06
+921,Peanut Butter Chocolate Clusters,Food - Desserts,2.99,21,Pennsylvania,2025-07-28
+922,Coloring Books for Adults,Books,14.99,76,Colorado,2025-06-08
+923,Memory Foam Pillow,Home,39.99,67,Texas,2025-06-13
+924,Mushroom Soup (canned),Food - Canned Goods,2.49,91,Florida,2025-04-11
+925,Personalized Cutting Board,Kitchen,34.99,73,Georgia,2024-10-06
+926,Almond Flour,Food - Baking,5.99,9,Arizona,2024-09-29
+927,Savory Oatmeal,Food - Breakfast,2.49,8,California,2025-07-19
+928,Plant-Based Cookbook,Books,29.99,12,Illinois,2025-04-29
+929,Apple Cinnamon Granola,Food - Breakfast,4.49,72,Georgia,2025-08-12
+930,Tailgating Set,Outdoor,89.99,6,Delaware,2025-08-12
+931,Kettle Corn Popcorn,Food - Snacks,2.99,22,California,2025-01-15
+932,Red Lentil Pasta,Food - Pasta,3.99,25,Florida,2025-07-04
+933,Vanilla Protein Powder,Food - Health/Protein,24.99,83,Oklahoma,2025-06-19
+934,Almond Milk,Food - Dairy,3.29,68,Missouri,2025-01-24
+935,Teriyaki Salmon Fillets,Food - Seafood,9.99,23,North Carolina,2025-03-03
+936,Kids' Dinosaur-Themed Lunchbox,Accessories,19.99,47,Oregon,2025-02-24
+937,Butternut Squash Ravioli,Food - Frozen Foods,6.29,64,California,2025-05-04
+938,Chickpea Pasta,Food - Pasta,4.19,3,Texas,2025-06-21
+939,Digital Wireless Meat Thermometer,Kitchen,39.99,32,Florida,2025-05-24
+940,Low-Fat Cottage Cheese,Food - Dairy,2.99,80,California,2025-02-08
+941,Fitness Tracker Band,Fitness,29.99,52,Michigan,2025-02-05
+942,Classic Caesar Salad Kit,Food - Salads,4.99,30,Texas,2025-03-09
+943,Honeycrisp Apple Chips,Food - Snacks,3.49,75,Pennsylvania,2024-11-16
+944,Electric Hot Water Dispenser,Kitchen,59.99,76,Ohio,2025-03-14
+945,Multi-Functional Rice Cooker,Kitchen,49.99,84,District of Columbia,2024-10-11
+946,Gardening Gloves,Garden,15.99,73,New York,2024-09-25
+947,Rustic Italian Breads,Food - Bakery,3.99,34,Texas,2025-06-04
+948,Digital Wireless Meat Thermometer,Kitchen,39.99,23,California,2025-02-13
+949,Car Vacuum,Automotive,49.99,30,Tennessee,2024-10-22
+950,Coconut Cream,Food - Baking & Cooking,2.99,26,Texas,2025-03-03
+951,Cordless Electric Screwdriver,Tools,39.99,12,Ohio,2025-07-15
+952,Sushi Rice,Food - Grains,3.99,32,Texas,2024-10-07
+953,Fresh Lemons,Food - Fresh Produce,0.75,74,Texas,2025-04-26
+954,Mayonnaise,Food - Condiments,3.29,57,Kentucky,2025-07-19
+955,Arcade Game Machine,Gaming,299.99,27,Maryland,2025-05-23
+956,Set of Measuring Spoons,Kitchen,12.99,64,Alabama,2025-02-05
+957,Nature Explorer Lens Kit,Toys,19.99,35,Washington,2024-12-22
+958,Cooking Utensil Set,Kitchen,24.99,87,Pennsylvania,2024-08-30
+959,Pork Chops,Food - Meat,9.49,26,Ohio,2025-04-12
+960,Mini Indoor Herb Garden Kit,Garden,24.99,23,Texas,2024-08-15
+961,DIY Candle Making Kit,Crafts,22.99,52,Texas,2024-12-28
+962,Green Tea Matcha Powder,Food - Beverages,15.99,68,Florida,2024-12-28
+963,Almond Crunch Granola Bars,Food - Snacks,3.49,51,Kansas,2024-11-23
+964,Mushrooms,Food - Produce,2.99,4,Florida,2025-02-04
+965,Peach Slices in Syrup,Food - Canned Goods,2.59,32,Texas,2025-03-10
+966,Veggie Burger Patties,Food - Meat Substitutes,5.99,2,Oklahoma,2025-03-08
+967,Throw Pillow Covers,Home,22.99,49,Maryland,2024-10-26
+968,Vegan chocolate chip cookies,Food - Bakery,4.79,6,Pennsylvania,2024-09-25
+969,High-Low Hem Tee,Clothing - Tops,22.99,29,West Virginia,2024-11-10
+970,Car Windshield Sun Shade,Automotive,19.99,20,Texas,2024-12-28
+971,Warm Knit Beanie,Clothing - Accessories,19.99,27,Virginia,2024-12-10
+972,Tailored Dress Pants,Clothing - Bottoms,79.99,86,Tennessee,2024-12-29
+973,Compressible Packing Cubes,Travel,29.99,98,Texas,2025-01-23
+974,Breathable Face Mask Set,Health,14.99,87,Georgia,2025-04-18
+975,Compact Dishwasher,Home Appliances,299.99,31,California,2024-10-22
+976,Black Bean Spaghetti,Food - Pasta,3.99,79,Louisiana,2025-07-29
+977,Mesh Laundry Bags Set,Home,12.99,48,Colorado,2024-11-15
+978,Chipotle Black Bean Salad,Food - Salads,3.29,97,New Hampshire,2024-08-27
+979,Portable Solar Phone Charger,Electronics,29.99,80,Virginia,2025-03-19
+980,Portable Speaker Stand,Audio,39.99,43,California,2024-10-26
+981,Wireless HDMI Receiver,Electronics,49.99,72,South Carolina,2024-09-16
+982,Balsamic Fig Dressing,Food - Condiments,3.79,14,Texas,2025-05-26
+983,Sushi Roll Kit,Food - Cooking Kits,9.99,36,New Mexico,2024-10-07
+984,Nail Polish Set,Beauty,25,6,Alabama,2024-10-11
+985,Smart Wi-Fi Light Bulbs,Smart Home,19.99,45,Florida,2024-11-10
+986,3D Night Light,Home,19.99,74,Washington,2024-10-05
+987,LED Makeup Mirror,Beauty,39.99,44,Indiana,2024-09-16
+988,Roasted Garlic Pasta Sauce,Food - Sauces,4.99,26,Pennsylvania,2024-12-08
+989,Cinnamon Roll Protein Bar,Food - Snacks,2.99,26,New York,2024-08-13
+990,Organic Quinoa Salad,Food - Prepared Meals,5.99,27,Texas,2025-07-25
+991,Siphon Coffee Maker,Kitchen,49.99,57,Kansas,2025-04-14
+992,Chickpea Flour,Food - Baking,3.29,80,California,2025-05-16
+993,Smart Wi-Fi Camera,Smart Home,89.99,60,Wisconsin,2024-10-20
+994,Wireless Range Extender,Electronics,49.99,84,Pennsylvania,2025-04-13
+995,Kids' Learning Tablet,Electronics,129.99,44,Colorado,2024-09-10
+996,Granulated Sugar,Food - Baking,2.49,54,Alabama,2024-12-15
+997,Lasagna Noodles,Food - Pasta,1.89,98,District of Columbia,2025-01-18
+998,Chocolate Avocado Pudding,Food - Desserts,4.99,4,District of Columbia,2024-09-16
+999,Beard Grooming Kit,Grooming,34.99,71,Florida,2025-03-18
+1000,Classic Cheesecake Mix,Food - Desserts,4.99,26,Virginia,2025-01-05
